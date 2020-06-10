@@ -1,2 +1,2 @@
 # test-sukarn
-I don't like spicy food
+I like spicy food
